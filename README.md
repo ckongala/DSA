@@ -1,2 +1,2 @@
 # DEVOPS
-Creating a DEVOPS from the scratch
+Creating a DEVOPS project from the scratch
