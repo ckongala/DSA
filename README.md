@@ -1,2 +1,2 @@
-# DEVOPS
-Creating a DEVOPS project from the scratch
+# DSA
+DETAILS from the scratch.
